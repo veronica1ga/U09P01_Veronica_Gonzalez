@@ -1,0 +1,28 @@
+.search {
+    padding: 50px 55px;
+    width: 100%;
+}
+
+body {
+    background: #20262e;
+    padding: 20px;
+    font-family: Helvetica;
+}
+
+h1 {
+    font-size: 3em;
+    color: white;
+    font-weight: bold;
+}
+
+.blog-inner {
+    padding: 1em;
+}
+
+#myDIV {
+    background-color: #f42f2f;
+}
+
+#myInput {
+    background-color: white;
+}
