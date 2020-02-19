@@ -1,0 +1,56 @@
+#lugar,
+#fecha {
+    /*padding: 50px 55px;*/
+    height: 2em;
+    width: 80em;
+    border: none;
+    border-bottom: solid black;
+    color: dodgerblue;
+    font-size: 90%;
+    background-color: white;
+}
+
+body {
+    /*background: #20262e;*/
+    padding: 20px;
+    font-family: Helvetica;
+}
+
+.lugar,
+.fecha {
+    display: none;
+}
+
+input[type="button"] {
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    padding: 0.5em;
+    font-size: 100%;
+}
+
+h1 {
+    background-color: dodgerblue;
+    font-size: 3em;
+    color: white;
+    padding: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.blog-inner {
+    padding: 1em;
+}
+
+.characters {
+    background-color: gainsboro;
+    width: 33em;
+    text-align: center;
+    position: relative;
+    left: 25em;
+}
+
+#myDIV {
+    background-color: #f42f2f;
+    margin-top: 1em;
+}
